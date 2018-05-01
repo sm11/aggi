@@ -5,6 +5,7 @@ import android.view.View
 import com.squareup.picasso.Picasso
 import kotlinx.android.synthetic.main.item_news.view.*
 
+
 class NewsViewHolder(view: View): RecyclerView.ViewHolder(view) {
 
     fun bind(model: News) {
