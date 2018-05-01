@@ -36,7 +36,7 @@ class NewsListFragment : FirebaseDbListFragment<News, NewsViewHolder>() {
         return News::class.java
     }
 
-    override fun getEmptyStyle(): EmptyStyle {
+   override fun getEmptyStyle(): EmptyStyle {
         return EmptyStyle(R.drawable.ic_error_view_cloud, "No news yet in database")
     }
 
