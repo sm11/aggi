@@ -1,0 +1,184 @@
+<div><div class="entry__body js-entry-body">
+
+
+<div class="top-media js-top-media bn-top-media yr-top-media">
+<div class="top-media--image">
+
+<figure class="bn-content-list-image content-list-component image yr-content-list-image">
+<img class="image__src" src="https://img.huffingtonpost.com/asset/5aeb48f41e00002d008e45f8.jpeg?ops=scalefit_720_noupscale" alt="">
+<div class="image__meta-wrapper js-image-meta-wrapper">
+<div class="image__credit">
+Carlos Barria / Reuters
+</div>
+</div>
+</figure>
+
+</div>
+
+
+
+</div>
+
+<div class="bn-left-rail js-sharebar share-bar share-bar--sticky yr-left-rail">
+<ul class="share-bar__list bn-share yr-share">
+<div class="share-bar__social-counts">
+<span class="share-bar__social-counts__number">130</span>
+</div>
+<li class="bn-share-item facebook js-sharebar-facebook share-bar__item">
+<a class="facebook share-bar__item-link yr-share-item" href="https://www.huffingtonpost.com/entry/donald-trump-wiretapping-reaction_us_5aeb42b9e4b0c4f193201a43#"></a>
+</li>
+<li class="bn-share-item js-sharebar-twitter share-bar__item twitter">
+<a class="share-bar__item-link twitter yr-share-item" href="https://www.huffingtonpost.com/entry/donald-trump-wiretapping-reaction_us_5aeb42b9e4b0c4f193201a43#"></a>
+</li>
+<li class="bn-share-item js-sharebar-pinterest pinterest share-bar__item">
+<a class="pinterest share-bar__item-link yr-share-item" href="https://www.huffingtonpost.com/entry/donald-trump-wiretapping-reaction_us_5aeb42b9e4b0c4f193201a43#"></a>
+</li>
+<li class="bn-share-item email js-sharebar-email share-bar__item">
+<a class="email share-bar__item-link yr-share-item" href="https://www.huffingtonpost.com/entry/donald-trump-wiretapping-reaction_us_5aeb42b9e4b0c4f193201a43#"></a>
+</li>
+<div class="bn-share-item js-sharebar-comments share-bar__comments with-count yr-share-item yr-track">
+<div class="share-bar__comments__icon with-count"></div>
+<div class="share-bar__comments__count with-count">37</div>
+</div>
+</ul>
+</div>
+
+
+<div class="share-bar-highlight js-highlight hidden bn-highlight yr-highlight">
+<div class="bn-share yr-share">
+<a class="share-bar-highlight__twitter js-highlight-share-button bn-share-item yr-share-item"></a>
+<a class="share-bar-highlight__facebook js-highlight-share-button bn-share-item yr-share-item"></a>
+</div>
+</div>
+
+<div class="entry__text js-entry-text bn-entry-text yr-entry-text">
+<div class="content-list-component bn-content-list-text yr-content-list-text text"><p>President <a href="https://www.huffingtonpost.com/topic/donald-trump">Donald Trump</a>&#xA0;lashed out at NBC News after the outlet walked back its report that <a href="https://www.huffingtonpost.com/entry/michael-cohen-wiretapped_us_5aeb40f0e4b0ab5c3d631ca3">federal investigators wiretapped</a> the phone lines of his longtime personal lawyer Michael Cohen as part of their investigations into him.&#xA0;</p></div>
+
+<div class="content-list-component bn-content-list-text yr-content-list-text text"><p><a href="https://www.nbcnews.com/politics/donald-trump/feds-tapped-trump-lawyer-michael-cohen-s-phones-n871011">NBC News</a> first reported on the alleged wiretapping Thursday, citing two people familiar with the legal proceedings related to Cohen. Cohen is under investigation for a $130,000 payment he made to <a href="https://www.huffingtonpost.com/topic/stormy-daniels">Stormy Daniels</a>, an adult film actress who claims she had an affair with Trump. ABC News later confirmed the report.&#xA0;</p></div>
+<div class="content-list-component bn-content-list-text yr-content-list-text text"><div>
+<p>But hours later, NBC&#xA0;<a href="https://twitter.com/passantino/status/992149495193333760">issued a correction on air</a>,&#xA0;<a href="https://twitter.com/Tom_Winter/status/992153502062469126">citing three senior U.S. officials&#xA0;</a>to say Cohen was not wiretapped. ABC, which posted a similar report on Thursday, also corrected its report. Federal officials were actually reportedly monitoring Cohen using a device known as a pen register,&#xA0;which logs phone numbers or Internet addresses that have been contacted.&#xA0;</p>
+</div></div>
+<div class="content-list-component bn-content-list-text yr-content-list-text text"><p>The fumbled report came the day after Rudy Giuliani, Trump&#x2019;s newest attorney, told Fox News that Trump <a href="https://www.huffingtonpost.com/entry/rudy-giuliani-trump-stormy-daniels_us_5aea6adee4b00f70f0eefbea">repaid Cohen</a> the $130,000 paid to Daniels, allegedly to keep her from speaking out about the affair. The news directly contradicts statements Trump made last month, when he said&#xA0;<a href="https://edition.cnn.com/2018/04/05/politics/donald-trump-stormy-daniels/index.html">he had no knowledge</a>&#xA0;of Cohen&#x2019;s payments to the actress.&#xA0;</p></div>
+<div class="content-list-component bn-content-list-text yr-content-list-text text"><div>
+<p>Giuliani was &#x201C;furious&#x201D; about the initial NBC report, <a href="https://twitter.com/costareports/status/992090216214118401">according to The Washington Post&#x2019;s Robert Costa</a>.</p>
+</div></div>
+
+<div class="related-articles related-articles--recirc yr-related-articles">
+
+<ul class="related-articles__list">
+<li class="related-articles__list__item yr-related-article-item">
+<a class="related-articles__link related-articles__list__item__image-container yr-card-image yr-exclude-anchor" href="https://www.huffingtonpost.com/entry/michael-cohen-fifth-amendment-stormy-daniels-suit_us_5ae10d17e4b02baed1b620dd">
+<img class="related-articles__image" src="https://img.huffingtonpost.com/asset/5ae114061e00002c008e3a2c.jpeg?cache=kxoejgzkex&amp;ops=210_120">
+</a>
+<a class="related-articles__list__item__title related-articles__link yr-card-headline yr-exclude-anchor" href="https://www.huffingtonpost.com/entry/michael-cohen-fifth-amendment-stormy-daniels-suit_us_5ae10d17e4b02baed1b620dd">Michael Cohen To Plead The Fifth In Stormy Daniels Suit</a>
+</li>
+<li class="related-articles__list__item yr-related-article-item">
+<a class="related-articles__link related-articles__list__item__image-container yr-card-image yr-exclude-anchor" href="https://www.huffingtonpost.com/entry/national-enquirer-michael-cohen_us_5ae5fabbe4b055fd7fcccd04">
+<img class="related-articles__image" src="https://img.huffingtonpost.com/asset/5ae5fc052000002d00b8ffbc.png?cache=islvzox0fn&amp;ops=210_120">
+</a>
+<a class="related-articles__list__item__title related-articles__link yr-card-headline yr-exclude-anchor" href="https://www.huffingtonpost.com/entry/national-enquirer-michael-cohen_us_5ae5fabbe4b055fd7fcccd04">National Enquirer Turns On Michael Cohen</a>
+</li>
+<li class="related-articles__list__item yr-related-article-item">
+<a class="related-articles__link related-articles__list__item__image-container yr-card-image yr-exclude-anchor" href="https://www.huffingtonpost.com/entry/stormy-daniels-sues-trump-for-defamation_us_5ae88580e4b055fd7fcfeb80">
+<img class="related-articles__image" src="https://img.huffingtonpost.com/asset/5ae886572000004200b9025b.jpeg?cache=7vqzfrbyrc&amp;ops=210_120">
+</a>
+<a class="related-articles__list__item__title related-articles__link yr-card-headline yr-exclude-anchor" href="https://www.huffingtonpost.com/entry/stormy-daniels-sues-trump-for-defamation_us_5ae88580e4b055fd7fcfeb80">Stormy Daniels Sues Trump For Defamation</a>
+</li>
+</ul>
+</div>
+
+
+
+
+
+
+<div id="inline-newsletter_placeholder"></div>
+
+<section class="app-download-interstitial hidden js-app-download-interstitial bn-app-download yr-app-download">
+<div class="app-download-interstitial__container">
+<div class="app-download-interstitial__left">
+<div class="app-download-interstitial__logo"></div>
+<div class="app-download-interstitial__title js-app-download-interstitial-title"></div>
+<a class="app-download-interstitial__download-app bn-app-download-app-store" href="https://wdo-m.tlnk.io/serve?action=click&amp;publisher_id=353714&amp;site_id=125341&amp;my_placement=b_page&amp;site_id_android=125343">Download</a>
+</div>
+<div class="app-download-interstitial__right">
+<div class="app-download-interstitial__device"></div>
+</div>
+</div>
+</section>
+
+
+
+
+</div>
+
+
+
+
+
+
+
+<div class="advertisement before_related_media">
+<p id="info-share"><em>Do you have information you want to share with HuffPost? <a href="https://www.huffingtonpost.com/entry/donald-trump-wiretapping-reaction_us_5aeb42b9e4b0c4f193201a43#" class="yr-no-track" id="open-secure-contact">Here&#x2019;s how.</a></em></p>
+
+
+</div>
+
+
+<section class="extra-content bn-extra-content yr-extra-content">
+<div class="extra-content-eyebrow">
+<div class="extra-content-eyebrow__donut">
+<img alt="HuffPost" class="extra-content-eyebrow__donut__src" src="https://s.m.huffpost.com/assets/donut-a63d2a21ca5f04f551be212a9496d4deba5d40f4bcb801f34ba14f27bb3bb32a.svg">
+</div>
+
+</div>
+
+<div class="extra-content__media">
+<div class="slideshow-card bn-slideshow-open yr-slideshow-open yr-track">
+<div class="js-card-cover slideshow-card__cover">
+<div class="slideshow-card__overlay js-card-overlay"></div>
+<div class="slideshow-card__content js-card-content">
+<div class="slideshow-card__text">PHOTO GALLERY</div>
+<div class="slideshow-card__title">Donald Trump&apos;s 2017</div>
+<div class="sigil sigil--hot-dog sigil--slideshow"></div>
+</div>
+</div>
+</div>
+
+
+</div>
+</section>
+
+
+
+
+
+<div class="entry_footer bn-entry-footer yr-entry-footer">
+
+<div class="byline-footer">
+<div class="byline-footer__authors yr-authors">
+<div class="author-card author-card--byline-footer yr-author-card">
+<div class="author-card__headshot">
+<a class="author-card__link bn-author-image yr-author-image" href="https://www.huffingtonpost.com/author/lydia-oconnor"><img src="https://img.huffingtonpost.com/asset/56f9ad331e0000b5007057cc.jpg?ops=100_100" height="38px" width="38px" alt="headshot">
+</a></div>
+<div class="author-card__details">
+<div class="author-card__name"><a class="author-card__link bn-author-name yr-author-name" href="https://www.huffingtonpost.com/author/lydia-oconnor">Lydia O&apos;Connor</a></div><div class="author-card__microbio">Reporter, HuffPost</div>
+</div>
+</div>
+
+</div>
+<div class="byline-footer__right">
+
+
+</div>
+</div>
+
+
+
+
+
+
+</div>
+
+
+</div></div>

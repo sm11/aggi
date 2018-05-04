@@ -1,17 +1,11 @@
 package com.example.loaner.aggi0
 
-
-import android.os.Bundle
 import android.support.v4.app.Fragment
-import android.view.LayoutInflater
-import android.view.View
-import android.view.ViewGroup
-import android.widget.TextView
-
-
 import android.support.v7.widget.DividerItemDecoration
 import android.support.v7.widget.LinearLayoutManager
 import android.support.v7.widget.RecyclerView
+import android.view.LayoutInflater
+import android.view.ViewGroup
 import com.google.firebase.database.DatabaseError
 import com.google.firebase.database.FirebaseDatabase
 import com.google.firebase.database.Query
@@ -21,14 +15,8 @@ import com.mobymagic.easyfirebaselist.ProgressStyle
 import com.mobymagic.easyfirebaselist.database.FirebaseDbListFragment
 import com.thefinestartist.finestwebview.FinestWebView
 
-// TODO: Rename parameter arguments, choose names that match
-// the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
-private const val ARG_PARAM1 = "param1"
-private const val ARG_PARAM2 = "param2"
-
 /**
  * A simple [Fragment] subclass.
- *
  */
 class NewsListFragment : FirebaseDbListFragment<News, NewsViewHolder>() {
 
@@ -36,7 +24,7 @@ class NewsListFragment : FirebaseDbListFragment<News, NewsViewHolder>() {
         return News::class.java
     }
 
-   override fun getEmptyStyle(): EmptyStyle {
+    override fun getEmptyStyle(): EmptyStyle {
         return EmptyStyle(R.drawable.ic_error_view_cloud, "No news yet in database")
     }
 
@@ -49,7 +37,7 @@ class NewsListFragment : FirebaseDbListFragment<News, NewsViewHolder>() {
     }
 
     override fun getQuery(): Query {
-        return FirebaseDatabase.getInstance().reference.child("news").limitToLast(100)
+        return FirebaseDatabase.getInstance().reference.child("aggi").limitToLast(100)
     }
 
     override fun onBindViewHolder(viewHolder: NewsViewHolder, key: String, model: News) {
@@ -69,6 +57,5 @@ class NewsListFragment : FirebaseDbListFragment<News, NewsViewHolder>() {
         recyclerView.addItemDecoration(DividerItemDecoration(activity, DividerItemDecoration.VERTICAL))
         recyclerView.layoutManager = LinearLayoutManager(activity)
     }
-
 
 }

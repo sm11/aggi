@@ -1,0 +1,64 @@
+.{
+
+margin: 20px;
+}
+
+body{
+background-color: black;
+margin: 20px;
+}
+a, .button{
+	color: white;
+}
+.btn{
+	border-radius: 50;
+	color: white;
+	background: black;
+	border: white;
+	border-style: solid;
+	border-width: 1px;
+    padding: 15px 50px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+a:hover::before,
+a.hover::after
+{
+	text-decoration: none;
+	color: white;
+}
+
+.btn:hover {
+	text-decoration: none;
+    color: white;
+	background-color: black;
+}
+
+.btn::after {
+	text-decoration: none;
+    color: white;
+	background-color: black;
+}
+
+.item img {
+    height:250px;
+    width:50%;
+	align: center;
+}
+
+.thumbnail img {
+    height:250px;
+    width:100%;
+}
+
+.carousel-inner img {
+  margin: auto;
+}
+
+.article{
+	height:250px;
+    	width:100%;
+	}
+}

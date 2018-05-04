@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Aggi</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../static/css/style.css">
+  
+  
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body onload="checkCookies()"></body>
+<h1>10 minute article</h1>
+<!--<div class="article">
+<embed src="https://www.huffingtonpost.com/entry/michael-cohen-wiretapped_us_5aeb40f0e4b0ab5c3d631ca3">
+</div>-->
+
+<p id="demo">Nothing here yet</p>
+<a href=article><p>Click here</p></a>
+<a href=news><p>Click news</p></a>
+
+
+<script src="https://www.gstatic.com/firebasejs/4.13.0/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyAyD6ytZr6Eocta0YWY1GMd2_xLXtQBtKI",
+    authDomain: "aggi-2526b.firebaseapp.com",
+    databaseURL: "https://aggi-2526b.firebaseio.com",
+    projectId: "aggi-2526b",
+    storageBucket: "aggi-2526b.appspot.com",
+    messagingSenderId: "456300322336"
+  };
+  firebase.initializeApp(config);
+</script>
+
+
+<script>
+function checkCookies() {
+    var text = "";
+    if (navigator.cookieEnabled == true) {
+        text = "Cookies are enabled.";
+    } else {
+        text = "Cookies are not enabled.";
+    }
+    document.getElementById("demo").innerHTML = text;
+}
+</script>
+
+</body>
+</html>

@@ -1,0 +1,103 @@
+#FrontEndDesign
+
+#Onboarding01
+.Rectangle-Copy {
+  width: 375px;
+  height: 223px;
+  object-fit: contain;
+  transform: rotate(-164deg);
+  background-image: linear-gradient(260deg, #3f30ec, #a20bae);
+}
+
+#Onboarding02
+.Rectangle-Copy {
+  width: 375px;
+  height: 223px;
+  transform: rotate(-164deg);
+  background-image: linear-gradient(260deg, #3f30ec, #a20bae);
+}
+
+#Bundle
+.Background_Color {
+  width: 375px;
+  height: 812px;
+  background-color: #272727;
+}
+
+#BundleContent
+.Bitmap {
+  width: 335px;
+  height: 573px;
+  background-blend-mode: exclusion;
+  background-image: linear-gradient(#715429, #715429);
+  box-shadow: 2px 2px 4px 0 rgba(110, 110, 110, 0.5);
+}
+
+#BundleContent2
+.Mark-Photo {
+  width: 375px;
+  height: 408px;
+  background-blend-mode: exclusion;
+  background-image: linear-gradient(#1f476b, #1f476b);
+}
+
+#Bundle
+.Background_Color {
+  width: 375px;
+  height: 812px;
+  background-color: #272727;
+}
+
+#BundleContent
+.Bitmap {
+  width: 335px;
+  height: 573px;
+  background-blend-mode: exclusion;
+  background-image: linear-gradient(#785180, #785180);
+  box-shadow: 2px 2px 4px 0 rgba(110, 110, 110, 0.5);
+}
+
+#Bundle
+.Background_Color {
+  width: 375px;
+  height: 812px;
+  background-color: #272727;
+}
+
+#BundleContent
+.Mark-Photo {
+  width: 335px;
+  height: 573px;
+  background-blend-mode: exclusion;
+  background-image: linear-gradient(#1f476b, #1f476b);
+  box-shadow: 2px 2px 4px 0 rgba(110, 110, 110, 0.5);
+}
+
+#Bundle
+.Background_Color {
+  width: 375px;
+  height: 812px;
+  background-color: #272727;
+}
+
+#ConvoStarter
+.Rectangle-Copy {
+  width: 375px;
+  height: 263.7px;
+  transform: rotate(-164deg);
+  background-image: linear-gradient(214deg, #5330ec, #a20bae);
+}
+
+#ConvoStarter2
+.Rectangle-Copy {
+  width: 375px;
+  height: 261.2px;
+  transform: rotate(-164deg);
+  background-image: linear-gradient(138deg, #5330ec, #a20bae);
+}
+
+#Message
+.IMG_57B02BDAC244-1 {
+  width: 375px;
+  height: 812px;
+}
